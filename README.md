@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Tommy
+![Avatar](https://avatars.githubusercontent.com/u/67523195?v=4)
 
-<!--
-**Tomm8y/Tomm8y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+An developer of the technology and programing.
 
-Here are some ideas to get you started:
+## Contact Information
+- [Telegram](https://www.t.me/Tomm9y)
+## Social Media Accounts
+- [Twitter](https://www.t.me/Tomm8y)
+- [Instagram](https://www.instagram.com/tomm8y.1/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=github,python,)](https://skillicons.dev)
