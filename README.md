@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Tommy
-![Avatar](https://i.imgur.com/KbLnK1X.png)
+![Avatar](https://avatars.githubusercontent.com/u/67523195?v=4)
 
 ## About Me
 An developer of the technology and programing.
