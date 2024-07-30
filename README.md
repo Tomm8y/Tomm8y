@@ -11,4 +11,4 @@ An developer of the technology and programing.
 - [Instagram](https://www.instagram.com/tomm8y.1/)
 
 ## Skills                                  
-[![My Skills](https://skillicons.dev/icons?i=github,git,python,vscode,kali,Linux,&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,python,vscode,kali,linux,&perline=2)](https://skillicons.dev)
